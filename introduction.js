@@ -1,18 +1,18 @@
 // ملف تعريف الطالب
 function getStudentName() {
-    أحمد محمد    return "ــــــــــــــــ";
+    return "أحمد محمد";
 }
 
 function getStudentAge() {
-20    return 0;
+    return 20;
 }
 
 function getStudentMajor() {
-علوم حاسوب    return "ــــــــــــــــ";
+    return "علوم حاسوب";
 }
 
 function getStudentHobby() {
-البرمجة    return "ــــــــــــــــ";
+    return "البرمجة";
 }
 
 // لا تغير هذا السطر
